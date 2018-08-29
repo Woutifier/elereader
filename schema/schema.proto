@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message Reading {
+  fixed32 datetime = 1;
+  float ElectricityHigh = 2;
+  float ElectricityLow = 3;
+  float Gas = 4;
+}
