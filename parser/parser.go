@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"elereader/schema"
+	"github.com/Woutifier/elereader/schema"
 	"log"
 	"strconv"
 	"strings"

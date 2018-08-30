@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"elereader/parser"
+	"github.com/Woutifier/elereader/parser"
 	"flag"
 	"log"
 	"strings"
